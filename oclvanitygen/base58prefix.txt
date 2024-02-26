@@ -12,6 +12,7 @@ AQX,Aquila,A,75,212
 ARS,Arkstone,A,23,151
 ATMOS,Atmos,N,53,153
 AUR,Auroracoin,A,23,151
+AVN,Avian,R,23,151
 AXE,Axe,P,55,204
 BCNA,BitCanna,B,25,155
 BLAST,BLAST,B,25,239
@@ -65,12 +66,14 @@ IPS,Ipsum,i,103,138
 IXC,Ixcoin,x,138,266
 JBS,Jumbucks,J,43,171
 JIN,Jincoin,J,43,171
+KIIRO,Kiirocoin,K,45,210
 KMD,Komodo,R,60,188
 KORE,Kore,K,45,128
 LBRY,LBRY,b,85,28
 LEAF,Leafcoin,f,95,223
 LMC,LomoCoin,L,48,176
 LTC,Litecoin,L,48,176
+MEWC,Meowcoin,M,50,112
 MGD,MassGrid,M,50,25
 MMC,Memorycoin,M,50,178
 MNC,Mincoin,M,50,178

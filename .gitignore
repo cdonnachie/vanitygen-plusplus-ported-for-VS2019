@@ -1,0 +1,9 @@
+binaries/
+keyconv/x86/
+keyconv/x64/
+oclvanitygen/x86/
+oclvanitygen/x64/
+vanitygen/x86/
+vanitygen/x64/
+oclvanityminer/x86/
+oclvanityminer/x64/
